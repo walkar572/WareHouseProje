@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\WareHouse\bin\Debug\net9.0\WareHouse.exe
+C:\Users\MSI\source\repos\WareHouse\bin\Debug\net9.0\WareHouse.deps.json
+C:\Users\MSI\source\repos\WareHouse\bin\Debug\net9.0\WareHouse.runtimeconfig.json
+C:\Users\MSI\source\repos\WareHouse\bin\Debug\net9.0\WareHouse.dll
+C:\Users\MSI\source\repos\WareHouse\bin\Debug\net9.0\WareHouse.pdb
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.AssemblyInfo.cs
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.dll
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\refint\WareHouse.dll
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.pdb
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\WareHouse.genruntimeconfig.cache
+C:\Users\MSI\source\repos\WareHouse\obj\Debug\net9.0\ref\WareHouse.dll
